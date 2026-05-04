@@ -24,9 +24,6 @@ Acesse o link abaixo e use diretamente no navegador:
 ```
 https://dariokavalkeviski.github.io/controle-de-gastos-pessoais/
 ```
-
-> Substitua `SEU_USUARIO` pelo seu nome de usuário do GitHub.
-
 ### Opção 2 — Localmente
 1. Faça o download do arquivo `index.html`
 2. Abra o arquivo em qualquer navegador (Chrome, Firefox, Edge)
