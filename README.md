@@ -22,7 +22,7 @@ Uma planilha interativa de controle financeiro pessoal, desenvolvida com HTML, C
 Acesse o link abaixo e use diretamente no navegador:
 
 ```
-https://SEU_USUARIO.github.io/budget-tracker
+https://dariokavalkeviski.github.io/controle-de-gastos-pessoais/
 ```
 
 > Substitua `SEU_USUARIO` pelo seu nome de usuário do GitHub.
